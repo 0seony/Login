@@ -1,0 +1,35 @@
+.wrap {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid rgb(158, 161, 158);
+    background-color: rgb(238, 238, 238);
+}
+
+h1 {
+    color: #03c75a;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    background: #03c75a;
+    border: 1px solid rgba(0,0,0,.1);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    background: #999;
+}
+
+a:link {
+    color: white;
+  }
